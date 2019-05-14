@@ -1,2 +1,2 @@
 Regression Testing
-Performance Testing
+Functional Testing
